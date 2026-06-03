@@ -29,13 +29,6 @@ Proyek ini dibangun menggunakan teknologi web standar tanpa framework eksternal 
 5.  Skor dan persentase penyelamatan akan tercatat otomatis
 6.  Tekan **"Reset"** untuk mengulang permainan
 
-## 📂 Struktur Proyek
-
-├── index.html # Halaman utama & struktur HTML
-├── styles.css # Styling, variabel tema, dan animasi
-├── script.js # Logika game, timeline, dan dark mode toggle
-└── assets/ # Gambar pemain, ikon, dan background
-
 ## 🚀 Deployment
 
 Website ini di-hosting di **Vercel** dengan integrasi GitHub otomatis. Setiap push ke branch `main` akan memicu deployment baru secara instan.
